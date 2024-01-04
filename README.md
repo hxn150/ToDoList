@@ -4,20 +4,22 @@ Welcome to To-Do List, the to-do app that helps you organize your life in a fun 
 
 With To-Do you can create fully customized todos including:
 
-  ✅ Title - Give your task a fun name!
 
-  ✅ Description - Add any important details
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✅ Title - Give your task a fun name!
 
-  ✅ Deadline - Set your task's due date
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✅ Description - Add any important details
 
-  ✅ Priority - Mark high, medium, or low importance
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✅ Deadline - Set your task's due date
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✅ Priority - Mark high, medium, or low importance
   
-  ✅ Is Complete Checkbox - Check off completed todos for that sweet feeling of accomplishment!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✅ Is Complete Checkbox - Check off completed todos for that sweet feeling of accomplishment!
 
 And when you need to make changes, our update and delete actions allow you to:
 
-➕ Update a todo's name, details, deadline, or priority at any time
-➖ Delete todos completely once you've scribbled them off your list
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➕ Update a todo's name, details, deadline, or priority at any time
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➖ Delete todos completely once you've scribbled them off your list
 
 Live Demo:
 
